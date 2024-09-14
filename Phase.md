@@ -10,6 +10,30 @@ Expected Outcomes:
 4. Strong grasp of recursive thinking and backtracking, enabling efficient problem-solving for complex algorithmic challenges.
 By the end of this phase, you'll have solved numerous problems on platforms like LeetCode, preparing you for more advanced topics.
 
+### Array
+concepts:
+ `1. Basic Array Declaration and Initialization`
+ ```C ++ Example Code:
+ #include<iostream>
+using namespace std;
+int main(){
+  int numbers [7] = {2, 4, 4, 9, 4, 5, 10 };
+  for(int i = 0; i<7; i++){
+    cout << numbers[i] << endl;
+  }
+  
+  return 0;
+}
+ ```
+ `2. Accessing Array Elements`
+ `3. Traversing Array Elements`
+ `4. Modifying Array Elements`
+ `5. Sorting Array Elements`
+ `6. Searching Array Elements`
+ `7. Array Operations`
+
+
+
 
 
 

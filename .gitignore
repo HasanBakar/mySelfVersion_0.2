@@ -1,0 +1,7 @@
+# Ignore all .exe files in the root and any subdirectory
+*.exe
+
+# Optionally, ignore specific build directories if needed
+# /build/
+/bin/
+/obj/
