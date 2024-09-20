@@ -20,6 +20,7 @@
 //     return 0;
 // }
 
+/*
 #include<iostream>
 using namespace std;
 int main(){
@@ -31,4 +32,12 @@ int main(){
         i++;
     }
     
+}
+*/
+
+#include<iostream>
+using namespace std;
+int main(){
+    // write your code here
+    return 0;
 }
